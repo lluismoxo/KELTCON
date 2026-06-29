@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lluismoxo.github.io/KELTCON/sitemap.xml
